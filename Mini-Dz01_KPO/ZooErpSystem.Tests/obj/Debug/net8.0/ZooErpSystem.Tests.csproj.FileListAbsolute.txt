@@ -1,5 +1,0 @@
-C:\Users\DAT\source\repos\Mini-Dz01_KPO\ZooErpSystem.Tests\obj\Debug\net8.0\ZooErpSystem.Tests.csproj.AssemblyReference.cache
-C:\Users\DAT\source\repos\Mini-Dz01_KPO\ZooErpSystem.Tests\obj\Debug\net8.0\ZooErpSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DAT\source\repos\Mini-Dz01_KPO\ZooErpSystem.Tests\obj\Debug\net8.0\ZooErpSystem.Tests.AssemblyInfoInputs.cache
-C:\Users\DAT\source\repos\Mini-Dz01_KPO\ZooErpSystem.Tests\obj\Debug\net8.0\ZooErpSystem.Tests.AssemblyInfo.cs
-C:\Users\DAT\source\repos\Mini-Dz01_KPO\ZooErpSystem.Tests\obj\Debug\net8.0\ZooErpSystem.Tests.csproj.CoreCompileInputs.cache
