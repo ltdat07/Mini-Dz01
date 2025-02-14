@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "3b2vbaxw59s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DAT\\source\\repos\\Mini-Dz01_KPO\\Mini-Dz01_KPO\\Mini-Dz01_KPO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAT\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\DAT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\DAT\\.nuget\\packages\\microsoft.testplatform\\17.13.0\\microsoft.testplatform.17.13.0.nupkg.sha512",
+    "C:\\Users\\DAT\\.nuget\\packages\\mstest.analyzers\\3.8.0\\mstest.analyzers.3.8.0.nupkg.sha512",
+    "C:\\Users\\DAT\\.nuget\\packages\\mstest.testframework\\3.8.0\\mstest.testframework.3.8.0.nupkg.sha512",
+    "C:\\Users\\DAT\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\DAT\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
